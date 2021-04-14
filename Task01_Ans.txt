@@ -1,0 +1,22 @@
+1. The main differnce between http1.1 and http2 is that Http2 is much faster than http1.1 by response time,loading period.
+
+2.HTTP (HyperText Transfer Protocol) is the underlying protocol of the World Wide Web.Development of HTTP was initiated by Tim Berners-Lee.
+HTTP has four versions — 
+i)HTTP/0.9
+ii)HTTP/1.0
+iii)HTTP/1.1
+iv)HTTP/2.0.
+
+3.Difference between BrowserJs and NodeJs-
+i)Nodejs is a standalone application  and the other is a browser based console.
+ii)Nodejs doesn't need browser support like Browser JS(console).
+iii) Nodejs is easier to execute the code as it doesn't need a separate browser to check the output everytime.
+iv)Browser JS(console) is also called as JavaScript-Sandboxed and Nodejs is also called as JavaScript-Stripped.
+v)Code run the on browser and other in Node JS runs through terminal node filename.js
+
+4.When a URL is typed in the address bar, the following steps are perform by the browser:
+i)The browser checks the cache for a DNS record to find the corresponding IP address and the cache memory is checked if the web address entered has already been ran before.
+ii)After that a Transfer Control Protocol(TCP) is initiated between client and server.
+iii) HTTP request is sent to the respected server.
+iv)Then we  We receive a response from the server with the HTTP code.
+iv)And finally at last respective rendering engine and browser engine will create web page and display output on browser.
